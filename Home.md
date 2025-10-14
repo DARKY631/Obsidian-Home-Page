@@ -1,9 +1,8 @@
 ---
 editor-width: 100
-banner: "![[Pasted image 20251013004801.png]]"
+banner: "![[IMAGE_FILE_NAME.PNG/JPG/WHATEVER]]"
 cssclasses:
   - hide-properties
-icon: "![[Pasted image 20251014015836.png]]"
 ---
 
 ```dataviewjs
