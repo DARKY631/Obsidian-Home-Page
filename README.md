@@ -59,6 +59,7 @@ This prevents new tabs from opening as hometabs instead of your homepage.
 #### Simple Banner
 - Enable **Datetime**
 - Adjust banner style to your liking.
+
 My settings:
 - Height: 400
 - Padding: 0
@@ -78,7 +79,7 @@ If it looks off:
 2. Replace the existing file in your vault’s plugin folder: `.obsidian/plugins/home-tab/style.css`
 3. Restart Obsidian (or disable/re-enable the plugin).
 
-***Not Fully Tested but should work for most***
+***Not Fully Tested but should work for most themes***
 
 ---
 
