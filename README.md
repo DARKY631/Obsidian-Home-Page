@@ -2,7 +2,7 @@
 
 Easily set up a polished home dashboard in **Obsidian** using community plugins and custom CSS snippets.
 
-![](m2-res_452p.mp4)
+![Demo Preview](/Untitled video - Made with Clipchamp.gif)
 
 ---
 
