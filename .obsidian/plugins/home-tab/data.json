@@ -1,0 +1,42 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "໒(⊙ᴗ⊙)७✎▤",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "accentColor",
+  "fontWeight": 600,
+  "maxResults": 10,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 10,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "accentColor",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "01 - Weekly/2025-W42.md",
+      "timestamp": 1760406705471
+    },
+    {
+      "filepath": "99 - Meta/Home.md",
+      "timestamp": 1760406703227
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": false,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
